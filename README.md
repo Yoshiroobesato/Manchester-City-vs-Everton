@@ -34,3 +34,5 @@ Se disputará el **jueves 26 de diciembre de 2024**.
 
 ### Contacto  
 **Correo:** [obesatoy@gmail.com](mailto:obesatoy@gmail.com)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=/Yoshiroobesato/Manchester-City-vs-Everton)
