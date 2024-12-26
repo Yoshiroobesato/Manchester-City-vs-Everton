@@ -35,4 +35,4 @@ Se disputará el **jueves 26 de diciembre de 2024**.
 ### Contacto  
 **Correo:** [obesatoy@gmail.com](mailto:obesatoy@gmail.com)
 
-![visitors](http://ultratv.66ghz.com/contador.php)
+![visitor](http://ultratv.66ghz.com/contador.php)
