@@ -13,7 +13,7 @@ Se disputará el **jueves 26 de diciembre de 2024**.
 
 ## Transmisión en Vivo  
 | ![Logo ESPN](https://golazotv2stream.web.app/logos/espn.png) | ![Logo DAZN](https://golazotv2stream.web.app/logos/dazn1.png) | ![Logo FOX SPORTS](https://golazotv2stream.web.app/logos/foxsports.png) | ![Logo Bein Sports](https://golazotv2stream.web.app/logos/bein_sports.png) |
-|------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------|
+|------------------------------------|------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------|
 
 ---
 
