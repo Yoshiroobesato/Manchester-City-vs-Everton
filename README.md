@@ -24,8 +24,8 @@ Se disputará el **jueves 26 de diciembre de 2024**.
 ---
 
 ## Horarios por País
-
-|Reino Unido:| [12:30 p.m.]|  
+|pais| |horario|
+|Reino Unido:| [12:30 p.m.]|
 - **España:** 1:30 p.m.  
 - **México:** 6:30 a.m.  
 - **Colombia / Perú:** 7:30 a.m.  
