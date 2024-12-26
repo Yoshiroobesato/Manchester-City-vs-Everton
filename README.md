@@ -1,8 +1,8 @@
 # Manchester City vs Everton
 
-![Logo Manchester City](https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg)  
-**VS**  
-![Logo Everton](https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg)
+| ![Manchester City](https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg) | ![Everton](https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg) |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| **Manchester City**                                                                           | **Everton**                                                                    |
 
 ## Jornada 18 de la Premier League  
 Se disputará el **jueves 26 de diciembre de 2024**.
