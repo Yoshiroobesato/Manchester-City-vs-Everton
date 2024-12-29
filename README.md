@@ -35,4 +35,4 @@ Se disputará el **jueves 26 de diciembre de 2024**.
 ### Contacto  
 **Correo:** [obesatoy@gmail.com](mailto:obesatoy@gmail.com)
 
-![visitor](https://hitwebcounter.com/counter/counter.php?page=18083215&style=0001&nbdigits=9&type=page&initCount=0)
+![visitor](http://api-stream.getenjoyment.net/conter.php)
